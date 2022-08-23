@@ -1,6 +1,6 @@
 locals {
   name        = "${var.project}-${var.environment}-postgres"
-  db_username = "ukiyo"
+  db_username = "test"
   db_password = random_password.password.result
 
   tags = {
