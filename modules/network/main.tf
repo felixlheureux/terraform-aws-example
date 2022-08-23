@@ -19,7 +19,7 @@ module "vpc" {
   }
 
   tags = {
-    Owner       = "ukiyo"
+    Owner       = "test"
     Environment = var.environment
   }
 
