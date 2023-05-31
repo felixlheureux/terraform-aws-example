@@ -1,5 +1,11 @@
-# terraform-aws-example
+# AWS Serverless Architecture Repository
+Welcome to the AWS Serverless Architecture Repository! This repository serves as a comprehensive guide for building scalable and cost-effective applications using a serverless architecture on the Amazon Web Services (AWS) platform.
 
-Full stack infrastructure for a web app with dev and prod environment using AWS and CloudFlare as CDN.
+## Features
+Utilizes AWS services such as Amazon RDS, AWS Lambda, VPC, and API Gateway
+Demonstrates best practices for designing and deploying serverless applications
+Provides step-by-step tutorials, sample code, and example projects
+Offers guidance on performance optimization, security, and cost management
 
-Cost for dev env: 0$ per month with AWS Free Tier
+## License
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and documentation within this
